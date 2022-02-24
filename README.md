@@ -1,6 +1,6 @@
 # Meu Portifólio Web
 
-    Requisitos mínimo a ser cumpridos:
+#### Requisitos mínimo a ser cumpridos:
 
     [x] Seu nome completo;    
     
@@ -18,9 +18,9 @@
     
     [x] Um índice com links internos para as diferentes seções do seu portfólio.
 
-    Novos Requisitos:
+#### Novos Requisitos:
 
-    [ ] Defina fontes diferentes para o seu nome e para a descrição que você criou;
+    [x] Defina fontes diferentes para o seu nome e para a descrição que você criou;
 
     [ ] Defina uma cor base de background do seu Portfólio Web ;
 
