@@ -2,7 +2,7 @@
 
     Requisitos mínimo a ser cumpridos:
 
-    [ ] Seu nome completo;    
+    [x] Seu nome completo;    
     
     [ ] Uma foto atual sua, acompanhada de um texto alternativo, que deve ser a descrição da foto que você está usando;
 
