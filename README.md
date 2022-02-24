@@ -8,7 +8,7 @@
 
     [x] Uma breve descrição sobre você, destacando algumas informações como nacionalidade e a cidade/estado onde mora;
 
-    [ ] Uma lista de habilidades que você possui, com destaque para aquela de que você mais se orgulha;
+    [x] Uma lista de habilidades que você possui, com destaque para aquela de que você mais se orgulha;
 
     [x] Um link interno para a sua foto;
 
