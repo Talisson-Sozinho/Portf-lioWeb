@@ -16,4 +16,4 @@
 
     [x] Partes do seu portfólio destacadas com negrito e/ou itálico;
     
-    [ ] Um índice com links internos para as diferentes seções do seu portfólio.
+    [x] Um índice com links internos para as diferentes seções do seu portfólio.
