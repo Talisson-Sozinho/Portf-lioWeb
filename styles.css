@@ -1,5 +1,19 @@
+/* Esquema de cores */
+/* 
+  #000000;
+  #F4FAFF;
+  #5DFDCB;
+  #7CC6FE;
+  #8789C0;
+*/
+/* Fim do esquema de cores */
+
 * {
-  font-family: 'Times New Roman', Times, serif
+  font-family: 'Times New Roman', Times, serif;
+}
+body{
+  background-color: #000000;
+  color:  #F4FAFF;
 }
 
 .my-name{
@@ -9,4 +23,5 @@
 .my-name {
   font-family: 'Roboto Serif', serif;
 }
+
 
