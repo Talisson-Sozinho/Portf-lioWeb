@@ -16,6 +16,11 @@ body{
   color:  #F4FAFF;
 }
 
+.voltando-normal{
+  font-weight: normal;
+  text-decoration: none;
+}
+
 .my-name{
   font-family:'Playfair Display', serif;
   letter-spacing: 0.75px;
